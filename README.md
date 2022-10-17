@@ -5,7 +5,7 @@ I was inspired by the low-poly artstyle of early 3D games, such as quake, but wi
 by games set underwater such as Abzu. The main character is one of the tang fish, placed near the middle of the scene.
 The objects included in the scene are:
 
-Modeled By Me:
+Modeled By Me in Blockbench:
 	Fish Tank,
 	Sand Ground Texture,
 	Plants,
