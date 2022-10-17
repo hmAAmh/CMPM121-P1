@@ -6,16 +6,16 @@ by games set underwater such as Abzu. The main character is one of the tang fish
 The objects included in the scene are:
 
 Modeled By Me:
-	Fish Tank
-	Sand Ground Texture
-	Plants
-	Coral
-	Pebble
-	Tang Fish
-	Crab 
+	Fish Tank,
+	Sand Ground Texture,
+	Plants,
+	Coral,
+	Pebble,
+	Tang Fish,
+	Crab, 
 	Sea Bunny
 
 Primitives:
-	Sand Bed Layer 1
+	Sand Bed Layer 1,
 	Sand Bed Layer 2
 
