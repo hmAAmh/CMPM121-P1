@@ -1,5 +1,6 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
     <ui:VisualElement name="Frame">
-        <ui:Button text="Change Camera" display-tooltip-when-elided="true" name="Button" style="height: 82px; width: 344px; font-size: 24px; -unity-font-style: bold; -unity-text-outline-width: 1px; text-shadow: 0 0 1px rgba(0, 0, 0, 255);" />
+        <ui:Button text="Change Camera" display-tooltip-when-elided="true" name="Button" style="height: 82px; width: 344px; font-size: 24px; -unity-font-style: bold; -unity-text-outline-width: 1px; text-shadow: 0 0 1px rgb(0, 0, 0);" />
+        <ui:Button text="Lighting" display-tooltip-when-elided="true" name="ButtonLighting" style="height: 82px; width: 344px; font-size: 24px; -unity-font-style: bold; -unity-text-outline-width: 1px; text-shadow: 0 0 1px rgb(0, 0, 0); left: 0; bottom: -170%;" />
     </ui:VisualElement>
 </ui:UXML>
