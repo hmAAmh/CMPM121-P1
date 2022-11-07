@@ -3,13 +3,13 @@
     "UxmlPath": "Assets/camera_button.uxml",
     "CanvasX": 0,
     "CanvasY": 0,
-    "CanvasWidth": 809,
-    "CanvasHeight": 450,
-    "MatchGameView": false,
-    "ZoomScale": 1.0,
+    "CanvasWidth": 640,
+    "CanvasHeight": 480,
+    "MatchGameView": true,
+    "ZoomScale": 0.75,
     "PanOffset": {
-        "x": 20.0,
-        "y": 20.0
+        "x": 47.54248046875,
+        "y": 201.2032470703125
     },
     "ColorModeBackgroundOpacity": 1.0,
     "ImageModeCanvasBackgroundOpacity": 1.0,
