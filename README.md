@@ -23,4 +23,4 @@ Primitives:
 Project 1: https://youtu.be/O5FGXqeYq0k 
 
 
-Project 2: https://youtu.be/_pPteIsmlmA
+Project 2: https://youtu.be/nSK8lJPCFhQ

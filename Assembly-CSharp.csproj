@@ -36,9 +36,9 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Sun.cs" />
      <Compile Include="Assets\Scripts\ChangeCameraButton.cs" />
      <Compile Include="Assets\Scripts\moveCam.cs" />
-     <Compile Include="Assets\Scripts\Sun.cs" />
      <None Include="Assets\camera_button.uxml" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.9f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
